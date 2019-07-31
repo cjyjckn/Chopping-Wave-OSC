@@ -1,0 +1,20 @@
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Jul 31 12:37:02 2019
+\t (00:00:03)         Host=USER-PC User=user Pid=6596 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:06) Design opened: C:/Users/user/Desktop/CHOPPING WAVE OSC/dd.brd
+\i (00:00:06) trapsize 532
+\i (00:00:06) trapsize 545
+\i (00:00:06) trapsize 556
+\i (00:00:06) generaledit 
+\i (00:00:12) open 
+\i (00:00:14) fillin "dd.brd"
+\t (00:00:14) Opening existing design...
+\i (00:00:14) trapsize 556
+\d (00:00:14) Design opened: C:/Users/user/Desktop/CHOPPING WAVE OSC/dd.brd
+\i (00:00:14) generaledit 
+\i (00:00:15) exit 
+\t (00:00:15)     Journal end - Wed Jul 31 12:37:14 2019

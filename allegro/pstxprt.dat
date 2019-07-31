@@ -1,0 +1,270 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jul-31-2019 at 10:32:20 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CHOPPING WAVE OSC';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAP196_0.001UF':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS355@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins355@analog.\c.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins355@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAP196_0.001UF':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS371@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins371@analog.\c.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins371@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_CAP196_0.001UF':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS387@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins387@analog.\c.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins387@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_CAP196_0.001UF':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS403@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins403@analog.\c.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins403@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON3_JUMPER3_CON3':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS2874@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins2874@connector.\con3.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins2874@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_0_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS2901@CHOPPING WAVE OSC.CON2_0.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins2901@\chopping wave osc\.\con2_0.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins2901@\chopping wave osc\.\con2_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS35@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins35@discrete.\r.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins35@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES400_8.2K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS493@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins493@discrete.\r.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins493@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS509@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins509@discrete.\r.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins509@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RES400_2.2K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS525@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins525@discrete.\r.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins525@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_RES400_5.1K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS541@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins541@discrete.\r.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins541@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'POT_RESADJ_470K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS799@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins799@discrete.\pot.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins799@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'POT_RESADJ_100K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS817@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins817@discrete.\pot.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins817@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'POT_RESADJ_10K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS1620@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins1620@discrete.\pot.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins1620@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES400_15K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS51@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins51@discrete.\r.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins51@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS67@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins67@discrete.\r.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins67@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES400_20K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS83@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins83@discrete.\r.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins83@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES400_4.7K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS99@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins99@discrete.\r.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins99@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES400_4.7K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS115@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins115@discrete.\r.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins115@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES400_4.7K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS131@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins131@discrete.\r.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins131@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES400_4.7K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS147@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins147@discrete.\r.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins147@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS172@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins172@discrete.\r.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins172@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'LF356_0_DIP8_3_LF356':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS207@CHOPPING WAVE OSC.LF356_0.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins207@\chopping wave osc\.\lf356_0.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins207@\chopping wave osc\.\lf356_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LF356_0_DIP8_3_LF356':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS851@CHOPPING WAVE OSC.LF356_0.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins851@\chopping wave osc\.\lf356_0.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins851@\chopping wave osc\.\lf356_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'LF356_0_DIP8_3_LF356':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS881@CHOPPING WAVE OSC.LF356_0.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins881@\chopping wave osc\.\lf356_0.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins881@\chopping wave osc\.\lf356_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'LF356_0_DIP8_3_LF356':;
+
+SECTION_NUMBER 1
+ '@CHOPPING WAVE OSC.SCHEMATIC1(SCH_1):INS911@CHOPPING WAVE OSC.LF356_0.NORMAL(CHIPS)':
+ C_PATH='@\chopping wave osc\.schematic1(sch_1):ins911@\chopping wave osc\.\lf356_0.normal\(chips)',
+ P_PATH='@\chopping wave osc\.schematic1(sch_1):page1_ins911@\chopping wave osc\.\lf356_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

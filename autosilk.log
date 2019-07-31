@@ -1,0 +1,52 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : chopping wave osc.brd                         )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Jul 31 11:24:33 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.000
+Max Text displacement is 2.540
+Min Line Length is 0.000
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+Text string '***' is not at a suitable location
+(location: 70.917, 41.910)
+Text string 'U1' is not at a suitable location
+(location: 51.968, 51.892)
+Text string 'LF356_0_DIP8_3_LF356' is not at a suitable location
+(location: 52.527, 49.581)
+Text string '***' is not at a suitable location
+(location: 86.817, 15.291)
+Text string '***' is not at a suitable location
+(location: 86.817, 14.021)
+Text string '***' is not at a suitable location
+(location: 22.682, 31.166)
+Text string '***' is not at a suitable location
+(location: 22.682, 29.896)
+Text string '***' is not at a suitable location
+(location: 68.529, 36.652)
+Text string '***' is not at a suitable location
+(location: 69.799, 36.652)
+
+Total Failures: 9
+
+Log End
+
